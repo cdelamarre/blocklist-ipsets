@@ -1,0 +1,218 @@
+[
+	{
+		"name": "bbcan177_ms1",
+		"category": "malware",
+		"ips": 5268671,
+		"common": 1
+	},
+	{
+		"name": "bitcoin_blockchain_info_1d",
+		"category": "organizations",
+		"ips": 988,
+		"common": 1
+	},
+	{
+		"name": "bitcoin_blockchain_info_30d",
+		"category": "organizations",
+		"ips": 8196,
+		"common": 1
+	},
+	{
+		"name": "bitcoin_blockchain_info_7d",
+		"category": "organizations",
+		"ips": 2636,
+		"common": 1
+	},
+	{
+		"name": "blueliv_crimeserver_online",
+		"category": "attacks",
+		"ips": 71881,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_30d",
+		"category": "abuse",
+		"ips": 129476,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_updated_30d",
+		"category": "abuse",
+		"ips": 171675,
+		"common": 1
+	},
+	{
+		"name": "et_block",
+		"category": "attacks",
+		"ips": 24901180,
+		"common": 3
+	},
+	{
+		"name": "et_spamhaus",
+		"category": "attacks",
+		"ips": 24894976,
+		"common": 1
+	},
+	{
+		"name": "feodo",
+		"category": "malware",
+		"ips": 1240,
+		"common": 2
+	},
+	{
+		"name": "firehol_abusers_30d",
+		"category": "abuse",
+		"ips": 280028,
+		"common": 4
+	},
+	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 647621990,
+		"common": 138
+	},
+	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 53289,
+		"common": 138
+	},
+	{
+		"name": "firehol_webclient",
+		"category": "malware",
+		"ips": 4948,
+		"common": 138
+	},
+	{
+		"name": "firehol_webserver",
+		"category": "attacks",
+		"ips": 34668380,
+		"common": 12
+	},
+	{
+		"name": "gofferje_sip",
+		"category": "attacks",
+		"ips": 1096408,
+		"common": 1
+	},
+	{
+		"name": "hphosts_emd",
+		"category": "malware",
+		"ips": 30148,
+		"common": 8
+	},
+	{
+		"name": "iblocklist_ads",
+		"category": "organizations",
+		"ips": 861583,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unroutable",
+		"ips": 639382179,
+		"common": 41
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 762690535,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 346472155,
+		"common": 6
+	},
+	{
+		"name": "iblocklist_level3",
+		"category": "reputation",
+		"ips": 138936687,
+		"common": 3
+	},
+	{
+		"name": "iblocklist_org_microsoft",
+		"category": "organizations",
+		"ips": 1847911,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_spamhaus_drop",
+		"category": "attacks",
+		"ips": 24898560,
+		"common": 1
+	},
+	{
+		"name": "lashback_ubl",
+		"category": "spam",
+		"ips": 1144145,
+		"common": 1
+	},
+	{
+		"name": "pushing_inertia_blocklist",
+		"category": "reputation",
+		"ips": 34512264,
+		"common": 12
+	},
+	{
+		"name": "sorbs_dul",
+		"category": "spam",
+		"ips": 375226662,
+		"common": 1
+	},
+	{
+		"name": "sorbs_recent_spam",
+		"category": "spam",
+		"ips": 545338,
+		"common": 1
+	},
+	{
+		"name": "sorbs_web",
+		"category": "spam",
+		"ips": 6267285,
+		"common": 2
+	},
+	{
+		"name": "spamhaus_drop",
+		"category": "reputation",
+		"ips": 24899328,
+		"common": 1
+	},
+	{
+		"name": "sslbl_aggressive",
+		"category": "malware",
+		"ips": 3614,
+		"common": 138
+	},
+	{
+		"name": "stopforumspam",
+		"category": "abuse",
+		"ips": 152415,
+		"common": 3
+	},
+	{
+		"name": "stopforumspam_180d",
+		"category": "abuse",
+		"ips": 290163,
+		"common": 3
+	},
+	{
+		"name": "stopforumspam_30d",
+		"category": "abuse",
+		"ips": 60345,
+		"common": 2
+	},
+	{
+		"name": "stopforumspam_365d",
+		"category": "abuse",
+		"ips": 499219,
+		"common": 3
+	},
+	{
+		"name": "stopforumspam_90d",
+		"category": "abuse",
+		"ips": 153794,
+		"common": 3
+	}
+]

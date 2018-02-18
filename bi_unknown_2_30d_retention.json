@@ -1,0 +1,24 @@
+{
+	"ipset": "bi_unknown_2_30d",
+	"started": 1512342274000,
+	"updated": 1519275815000,
+	"incomplete": 0,
+	"past": {
+		"hours": [ 
+			739 ],
+		"ips": [ 
+			1 ],
+		"total": 1
+	},
+	"current": {
+		"hours": [ 
+			678,
+			702,
+			1732 ],
+		"ips": [ 
+			1,
+			1,
+			1 ],
+		"total": 3
+	}
+}
